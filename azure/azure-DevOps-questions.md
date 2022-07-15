@@ -147,9 +147,14 @@ Join
 Copy artifact
 Green Balls
 
+---
+
+
 20. Can we move or copy Jenkins from one server to another?
 
 Yes, it is possible. Jenkins can be moved or copied from one server to another. When copying Jenkins, it is possible to move the jobs directory from the older server to the new or the current one. This enables moving an installation by copying in the corresponding job directory.
+
+---
 
 21. What are Azure DevOps Projects?
 
