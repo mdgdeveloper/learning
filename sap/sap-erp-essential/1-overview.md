@@ -97,4 +97,3 @@ Two types of modules:
   * Company code
   * Plant
   * Sales organization
-
