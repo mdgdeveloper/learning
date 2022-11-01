@@ -3,6 +3,15 @@
 
 **Resource group**: Logical collection of all of your resources dedicated for a defined purpose. 
 
+A **Resource group** is __mandatory__ when creating a resource. 
+
+## Strategies for creation
+- Based on type: (SQL-RG, WEB-RG, ...)
+- Based on application lifecycle: (DEV-RG, PROD-RG, ...):
+  - This includes (SQL, WEB, VM, STORAGE, etc.)
+- Department
+- Billing 
+- 
 
 ## Process
 In Azure Portal: Search and select **Resource Groups**:
@@ -20,6 +29,15 @@ We can add to that resource group the VMs, Virtual Network or other type of reso
 > 🚨 Tags can be added at that stage and provide support for billing and access control. 
 
 When the resource group is created, in the process of creating a new resource, such as VMs, you can provide the resource group to which will be added. 
+
+
+## Process from CLI
+1. First we need to Login
+```
+az login
+```
+
+
 
 ## Azure Resource Manager (ARM)
 Platform that allows the admin to manage the assets. 
