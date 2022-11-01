@@ -3,6 +3,7 @@
 # Index
 
 - [Resource Groups](01-resource-groups.md)
+- [Resources](02-resources.md)
 - [Virtual Machines](#)
 - [Virtual Networks](#)
 - [Log analytics](#)
