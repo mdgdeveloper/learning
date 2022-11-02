@@ -3,3 +3,4 @@ Any element purchased as a service (i.e: SQL, Web, VM, etc.) are treated as **ob
 
 - Objects used to manage services in Azure. (JSON Definition)
 - Represent service lifecycle
+
