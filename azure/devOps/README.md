@@ -22,15 +22,26 @@
 # Main structure in Azure
 
 Azure Tenant/
+
 ├─ Azure Root Management Group/
+
 │  ├─ Azure Management Group #2/
+
 │  │  ├─ Azure Subscription 1/
+
 │  │  │  ├─ Resource Group 1/
+
 │  │  │  │  ├─ Resources/
+
 │  │  │  │  │  ├─ Data Base
+
 │  │  │  │  │  ├─ VM
+
 │  │  │  │  │  ├─ Virtual Network
+
 │  │  │  ├─ Resource Group 2/
+
 │  │  ├─ Azure Subscription 2/
+
 │  ├─ Azure Management Group #1/
 
